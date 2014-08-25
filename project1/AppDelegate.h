@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+//#import <FacebookSDK/FacebookSDK.h>
+
+@class GTMOAuth2Authentication;
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
